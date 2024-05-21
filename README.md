@@ -17,7 +17,7 @@ Please refer to the [documentation][link-docs]. In particular, the
 
 ## Installation
 
-You need to have Python 3.9 or newer installed on your system. If you don't have
+You need to have Python 3.10 or newer installed on your system. If you don't have
 Python installed, we recommend installing [Mambaforge](https://github.com/conda-forge/miniforge#mambaforge).
 
 There are several alternative options to install transcription_factor_activity:
@@ -33,7 +33,7 @@ pip install transcription_factor_activity
 1. Install the latest development version:
 
 ```bash
-pip install git+https://github.com/lauradmartens/transcription_factor_activity.git@main
+pip install git+https://github.com/theislab/transcription_factor_activity.git@main
 ```
 
 ## Release notes
