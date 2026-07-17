@@ -1,6 +1,6 @@
 name: Feature request
 description: Propose a new feature for transcription_factor_activity
-type: Enhancement
+labels: enhancement
 body:
   - type: textarea
     id: description
